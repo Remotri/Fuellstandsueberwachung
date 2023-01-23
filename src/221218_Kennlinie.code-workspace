@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../TEKO/Mikroprozessoren & SPS/221218_Kennlinie"
+		},
+		{
+			"name": "Raspberry wirelessproject",
+			"path": "../../Raspberry wirelessproject"
+		},
+		{
+			"name": "Fuellstandsueberwachung",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
